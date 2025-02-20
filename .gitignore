@@ -24,3 +24,5 @@ TAGS*~
 git-src
 .project
 .cproject
+.vscode
+.direnv
